@@ -18,6 +18,10 @@ We believe in open-source collaboration. Here’s how you can join and contribut
 - **Contribute to Projects** – Work on exciting humanoid robotics projects powered by ROS 2.
 - **Spread the Word** – Invite fellow roboticists to grow our community.
 
+Join our **Discord community** here: [https://discord.gg/cefUmdMt](https://discord.gg/cefUmdMt)
+
+For inquiries, reach us at: **artificialintelligenceyc@gmail.com**
+
 ---
 
 ## 👩‍💻 Useful Resources
@@ -34,4 +38,4 @@ To help you get started with **humanoid robotics in ROS 2**, here are some essen
 - 🤖 Many people believe humanoid robotics is only for big companies, but **open-source** makes it accessible to all!
 - 🌍 We are inspired by the **global push** for human-like robots in AI, automation, and assistive technologies.
 - 🚀 Our goal is to help **anyone build humanoid robots**—whether for research, education, or real-world applications.
-- 
+
