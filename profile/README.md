@@ -1,7 +1,7 @@
-# Open-Humanoids: Advancing Humanoid Robots powered by ROS2
+# OpenRoboticsLab : Advancing Humanoid Robots powered by ROS2
 
 ## 👋 Welcome!
-Welcome to **Open-Humanoids**, a community dedicated to advancing humanoid robotics using **ROS 2**! Our mission is to bring together enthusiasts, researchers, and developers to collaborate, share knowledge, and push the boundaries of humanoid robotics.
+Welcome to **OpenRoboticsLab**, a community dedicated to advancing humanoid robotics using **ROS 2**! Our mission is to bring together enthusiasts, researchers, and developers to collaborate, share knowledge, and push the boundaries of humanoid robotics.
 
 ---
 
