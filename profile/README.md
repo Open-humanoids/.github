@@ -18,7 +18,7 @@ We believe in open-source collaboration. Here’s how you can join and contribut
 - **Contribute to Projects** – Work on exciting humanoid robotics projects powered by ROS 2.
 - **Spread the Word** – Invite fellow roboticists to grow our community.
 
-Join our **Discord community** here: [https://discord.gg/cefUmdMt](https://discord.gg/cefUmdMt)
+Join our **Discord community** here: [https://discord.gg/cefUmdMt](https://discord.gg/CwrBNXfx3V)
 
 For inquiries, reach us at: **artificialintelligenceyc@gmail.com**
 
